@@ -29,6 +29,3 @@ Todos:
 Colour Scheme:
 //#fae5df #f5cac2 #ed7966 #303179 #141850
 //Pale pink, coral, gray, lilac and navy
-
-//<video poster="/images/clock.png" controls="controls"  width="800" height="360" >
-      <source src="/videos/barisir.mp4" type="video/mp4"></video>
